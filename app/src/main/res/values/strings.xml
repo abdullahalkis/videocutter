@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Video_Cutter</string>
+    <string name="videoSecimi">Select Video</string>
+    <string name="videoYukle">Please Upload a Video</string>
+    <string name="klasorName">Cut Video</string>
+    <string name="trimming_progress">Trimming your video...</string>
+
+
+
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="Ok">Ok</string>
+    <string name="short_seconds">sec</string>
+    <string name="megabyte">MB</string>
+    <string name="kilobyte">KB</string>
+
+    <string name="toast_cannot_retrieve_selected_video">Cannot retrieve selected video</string>
+
+    <dimen name="fab_elevation">5dp</dimen>
+    <dimen name="fab_rise">3dp</dimen>
+    <integer name="fab_duration">100</integer>
+
+</resources>
